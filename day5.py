@@ -46,4 +46,4 @@ if __name__ == "__main__":
     print(solve(input))
     print('-----------------PART 2 SOLUTION:------------------')
     print(solve2(input))
-    print('lol again2')
+    print('lol again')
